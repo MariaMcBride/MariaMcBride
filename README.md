@@ -2,9 +2,15 @@
 <h1 align="center">Hi 👋, I'm Maria McBride</h1>
 <h3 align="center">An aspiring full-stack developer</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariamcbride&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamcbride&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MariaMcBride&theme=material-palenight&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mariamcbride&count_private=true&show_icons=true&theme=material-palenight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamcbride&layout=compact&theme=material-palenight" />
+</a>
+<a href="https://git.io/streak-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MariaMcBride&theme=material-palenight&date_format=%5BY.%5Dn.j" />
+</a>
 
 - 🔭 I’m currently working on [OnlyPANS](https://github.com/EricToribio/onlyPans)
 
