@@ -1,4 +1,4 @@
-<div style="font-family: Fira Code iscript">
+<div style="font-family: 'Fira Code iscript', 'Roboto'">
   <!-- BANNER LINK TO PORTFOLIO -->
   <!--  https://mariamcbride.github.io/portfolio/  -->
   <p align="center">
@@ -12,8 +12,6 @@
   <p align="center">
   <img src="https://media.giphy.com/media/10y00L5OqWgHD2/giphy.gif">
   </p>
-  
-  ---
   
   <br>
   <!-- VISITS BADGES -->
