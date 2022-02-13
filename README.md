@@ -1,40 +1,147 @@
-<div align="center"><img src="https://media-exp1.licdn.com/dms/image/C4E16AQH1WygqDS5U3A/profile-displaybackgroundimage-shrink_200_800/0/1618354830494?e=1650499200&v=beta&t=deB4gLOOV-BojL6xsxRGZaasYNh1YbfWQoqVgVp0ZGg"/></div>
-<h1 align="center">Hi 👋, I'm Maria McBride</h1>
-<h3 align="center">An aspiring full-stack developer</h3>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mariamcbride&count_private=true&show_icons=true&theme=material-palenight" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamcbride&layout=compact&theme=material-palenight" />
-</a>
-<a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MariaMcBride&theme=material-palenight&date_format=%5BY.%5Dn.j" />
-</a>
-
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=129025865)](https://open.spotify.com/user/129025865)
-
-<!-- - 🔭 I’m currently working on [OnlyPANS](https://github.com/EricToribio/onlyPans)
-
-- 🌱 I’m currently learning **Java Full Spring**
-
-- 👯 I’m looking to collaborate on [Yet-to-be-named E-Commerce Site](https://github.com/EricToribio/ecommerce)
-
-- 🤝 I’m looking for help with [NerdSpace](https://github.com/MariaMcBride/14wk_Bootcamp/tree/main/Projects/social-media)
-
-- 💬 Ask me about **CSS**
-
-- 📫 How to reach me **mariacmcbride2@gmail.com**
-
-- ⚡ Fun fact: **I break, I cry, I try again.** -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/maria-mcbride" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maria-mcbride" height="30" width="40" /></a>
-<a href="https://discord.gg/232744490970906624" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="232744490970906624" height="30" width="40" /></a>
-<a href="https://fb.com/murrmcbride" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="murrmcbride" height="30" width="40" /></a>
-<a href="https://instagram.com/murrmcbride" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="murrmcbride" height="30" width="40" /></a>
+<!-- BANNER LINK TO PORTFOLIO -->
+<!--  https://mariamcbride.github.io/portfolio/  -->
+<p align="center">
+<img src="https://media-exp1.licdn.com/dms/image/C4E16AQH1WygqDS5U3A/profile-displaybackgroundimage-shrink_200_800/0/1618354830494?e=1650499200&v=beta&t=deB4gLOOV-BojL6xsxRGZaasYNh1YbfWQoqVgVp0ZGg" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<h2 align="center">Hi <img src="https://media.giphy.com/media/vByqwVn7mM9NEnr4kw/giphy.gif" width="50"> I'm Maria McBride</h2>
+<p>
+  <h3 align="center">An aspiring full-stack developer with a frontend focus ✨</h3>
+</p><br>
+<p align="center">
+<img src="https://media.giphy.com/media/10y00L5OqWgHD2/giphy.gif">
+</p>
+
+---
+
+<br>
+<!-- VISITS BADGES -->
+<p align="center">
+ <img src="https://badges.pufler.dev/visits/mariamcbride/mariamcbride"/>
+ <img src="https://badges.pufler.dev/repos/mariamcbride"/>
+ <img src="https://badges.pufler.dev/commits/monthly/mariamcbride" />
+</p>
+
+<!-- ABOUT ME -->
+### <img src="https://media.giphy.com/media/1BeE7pCRWrvxJgdTib/giphy.gif" width="50"> A little more about me... <img src="https://media.giphy.com/media/Mme4s8S3cm7fi/giphy.gif" width="50">
+
+```javascript
+const maria = {
+    pronouns: "She" | "Her",
+    preferredCode: ["HTML5", "CSS3", "Javascript"],
+    askMeAbout: ["web dev", "css", "design", "anime", "just don't ask me about listTasks"],
+    technologies: {
+        frontEnd: {
+            js: "React",
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+        databases: ["mongo", "MySql"],
+        devOps: "AWS",
+    },
+    architecture: ["Single page applications", "design system pattern"],
+    currentFocus: "Getting my Black Belt in Java and graduating Coding Dojo",
+    funFact: "I have an 8-year old border collie named Malcolm (after Malcolm Reynolds)",
+    interests: {
+        animeManga: {
+
+        },
+        videoGames: {
+
+        },
+        boardGamesTTRPG: {
+
+        },
+    }
+};
+```
+
+<!-- TECH LANGUAGES & TOOLS -->
+<h2 align="center">Technologies <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/-Flask-gray?style=for-the-badge&logo=flask"/>
+<img src="https://img.shields.io/badge/-MySQL-DD8A00?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/-Nodejs-white?style=for-the-badge&logo=Node.js"/>
+<img src="https://img.shields.io/badge/-Express-22AE5A?style=for-the-badge&logo=express"/>
+<img src="https://img.shields.io/badge/-React-212121?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/-MUI-0A1929?style=for-the-badge&logo=mui"/>
+<img src="https://img.shields.io/badge/-Sass-ED087D?style=for-the-badge&logo=sass"/>
+<img src="https://img.shields.io/badge/-MongoDB-FFF?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-Postman-FFF?style=for-the-badge&logo=postman"/>
+<img src="https://img.shields.io/badge/-Java-E34A86?style=for-the-badge&logo=java"/>
+<img src="https://img.shields.io/badge/-Spring-166E3A?style=for-the-badge&logo=spring"/>
+<img src="https://img.shields.io/badge/-VSCode-282A36?style=for-the-badge&logo=visualstudiocode"/>
+<img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/-Amazon AWS-E98610?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/-Figma-19B2F1?style=for-the-badge&logo=figma"/>
+<img src="https://img.shields.io/badge/-Miro-F2C52D?style=for-the-badge&logo=miro"/>
+<img src="https://img.shields.io/badge/-Trello-095ED9?style=for-the-badge&logo=trello"/>
+</p>
+
+&nbsp;
+
+<!-- SNAKE CONTRIBUTION GRAPH -->
+<!-- <h2 align="center">
+  Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+</h2>
+<p align="center">
+  <img src="SVG HERE" alt="snake"></center>
+</p> -->
+
+<h2 align="center">
+  Github Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</h2>
+<br>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mariamcbride&show_icons=true&theme=material-palenight&line_height=27">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamcbride&theme=material-palenight&hide=html,css">
+</p>
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariamcbride&show_icons=true&locale=en&layout=compact&theme=material-palenight&line_height=0" />
+</p>
+
+<p align="center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=mariamcbride&theme=material-palenight">
+</p>
+
+&nbsp;
+
+<!-- CONTACT -->
+<h2 align="center">Connect with me <img src="https://media.giphy.com/media/YMRKjJNYfh4PAoupmw/giphy.gif" width="50"></h2>
+
+<p align="center">
+<a href="mailto: mariacmcbride2@gmail.com">
+ <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=red&link=mailto:mariacmcbride2@gmail.com"/>
+</a>
+<a href="https://www.linkedin.com/in/maria-mcbride/">
+ <img src="https://img.shields.io/badge/-LinkedIn-1D2226?style=flat&logo=Linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/maria-macbride/"/>
+</a>
+<a href="https://discord.gg/232744490970906624">
+ <img src="https://img.shields.io/badge/-Discord-33363B?style=flat&logo=discord&logoColor=7289DA&link=https://discord.gg/232744490970906624"/>
+</a>
+<a href="https://steamcommunity.com/id/meraxxes/">
+ <img src="https://img.shields.io/badge/-Steam-1B2838?style=flat&logo=steam&logoColor=3C77A3&link=https://steamcommunity.com/id/meraxxes/"/>
+</a>
+ <img src="https://img.shields.io/badge/-Murr11891-33363B?style=flat&logo=battledotnet&logoColor=09BDDC"/>
+ <img src="https://img.shields.io/badge/-mera_xxes-18181B?style=flat&logo=twitch&logoColor=772CE8"/>
+</p>
+
+&nbsp;
+
+<p align="center">
+<img src="https://media.giphy.com/media/1beKPeRRyT2F2/giphy.gif" width="80">
+</p>
+<p align="center">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=129025865&count=3"/>
+</p>
+
+<hr>
