@@ -1,3 +1,4 @@
+![banner](https://media-exp1.licdn.com/dms/image/C4E16AQH1WygqDS5U3A/profile-displaybackgroundimage-shrink_200_800/0/1618354830494?e=1650499200&v=beta&t=deB4gLOOV-BojL6xsxRGZaasYNh1YbfWQoqVgVp0ZGg)
 <h1 align="center">Hi 👋, I'm Maria McBride</h1>
 <h3 align="center">An aspiring full-stack developer</h3>
 
