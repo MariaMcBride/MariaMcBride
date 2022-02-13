@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Maria McBride</h1>
 <h3 align="center">An aspiring full-stack developer</h3>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariamcbride&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamcbride&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently working on [OnlyPANS](https://github.com/EricToribio/onlyPans)
 
 - 🌱 I’m currently learning **Java Full Spring**
