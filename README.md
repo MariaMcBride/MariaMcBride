@@ -12,7 +12,9 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MariaMcBride&theme=material-palenight&date_format=%5BY.%5Dn.j" />
 </a>
 
-- 🔭 I’m currently working on [OnlyPANS](https://github.com/EricToribio/onlyPans)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=129025865)](https://open.spotify.com/user/129025865)
+
+<!-- - 🔭 I’m currently working on [OnlyPANS](https://github.com/EricToribio/onlyPans)
 
 - 🌱 I’m currently learning **Java Full Spring**
 
@@ -24,7 +26,7 @@
 
 - 📫 How to reach me **mariacmcbride2@gmail.com**
 
-- ⚡ Fun fact: **I break, I cry, I try again.**
+- ⚡ Fun fact: **I break, I cry, I try again.** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
