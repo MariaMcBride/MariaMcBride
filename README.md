@@ -13,7 +13,6 @@
   <img src="https://media.giphy.com/media/10y00L5OqWgHD2/giphy.gif">
   </p>
   
-  <br>
   <!-- VISITS BADGES -->
   <p align="center">
    <img src="https://badges.pufler.dev/visits/mariamcbride/mariamcbride"/>
