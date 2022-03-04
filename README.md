@@ -5,10 +5,9 @@
   <img src="https://media-exp1.licdn.com/dms/image/C4E16AQH1WygqDS5U3A/profile-displaybackgroundimage-shrink_200_800/0/1618354830494?e=1650499200&v=beta&t=deB4gLOOV-BojL6xsxRGZaasYNh1YbfWQoqVgVp0ZGg" />
   </p>
   
-  <h2 align="center" style="font-size: 35px">Hi <img src="https://media.giphy.com/media/vByqwVn7mM9NEnr4kw/giphy.gif" width="50"> I'm Maria McBride</h2>
-  <p>
-    <h3 align="center"><em>An aspiring full-stack developer with a frontend focus</em> ✨</h3>
-  </p><br>
+  <h1 align="center" style="font-size: 35px">Hi <img src="https://media.giphy.com/media/vByqwVn7mM9NEnr4kw/giphy.gif" width="50"> I'm Maria McBride<br>
+    <em>An aspiring full-stack developer with a frontend focus</em> ✨</h1>
+
   <p align="center">
   <img src="https://media.giphy.com/media/10y00L5OqWgHD2/giphy.gif">
   </p>
@@ -33,13 +32,13 @@
               js: "React",
           },
           backEnd: {
-              js: ["Node", "Express"],
+              js: ["Java", "Node", "Express"],
           },
           databases: ["mongo", "MySql"],
           devOps: "AWS",
       },
       architecture: ["Single page applications", "design system pattern"],
-      currentFocus: "Getting my Black Belt in Java and graduating Coding Dojo",
+      currentFocus: "Get a job as a software developer",
       funFact: "I have an 8-year old border collie named Malcolm (after Malcolm Reynolds)",
       interests: {
           animeManga: {
