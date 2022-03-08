@@ -2,12 +2,9 @@
   <!-- BANNER LINK TO PORTFOLIO -->
   <!--  https://mariamcbride.github.io/portfolio/  -->
   <p align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/C4E16AQH1WygqDS5U3A/profile-displaybackgroundimage-shrink_200_800/0/1618354830494?e=1650499200&v=beta&t=deB4gLOOV-BojL6xsxRGZaasYNh1YbfWQoqVgVp0ZGg" />
+  <img src="https://i.ibb.co/nf0VJsR/githubbanner.png" alt="githubbanner" border="0" width="800">
   </p>
   
-  <h1 align="center" style="font-size: 35px">Hi <img src="https://media.giphy.com/media/vByqwVn7mM9NEnr4kw/giphy.gif" width="50"> I'm Maria McBride<br>
-    <em>An aspiring full-stack developer with a frontend focus</em> ✨</h1>
-
   <p align="center">
   <img src="https://media.giphy.com/media/10y00L5OqWgHD2/giphy.gif">
   </p>
@@ -19,42 +16,9 @@
    <img src="https://badges.pufler.dev/commits/monthly/mariamcbride" />
   </p>
   
-  <!-- ABOUT ME -->
-  ## <img src="https://media.giphy.com/media/1BeE7pCRWrvxJgdTib/giphy.gif" width="50"> A few things about me... <img src="https://media.giphy.com/media/Mme4s8S3cm7fi/giphy.gif" width="50">
-  
-  ```javascript
-  const maria = {
-      pronouns: "She" | "Her",
-      preferredCode: ["HTML5", "CSS3", "Javascript"],
-      askMeAbout: ["web dev", "css", "design", "anime", "just don't ask me about listTasks"],
-      technologies: {
-          frontEnd: {
-              js: "React",
-          },
-          backEnd: {
-              js: ["Java", "Node", "Express"],
-          },
-          databases: ["mongo", "MySql"],
-          devOps: "AWS",
-      },
-      architecture: ["Single page applications", "design system pattern"],
-      currentFocus: "Get a job as a software developer",
-      funFact: "I have an 8-year old border collie named Malcolm (after Malcolm Reynolds)",
-      interests: {
-          animeManga: {
-  
-          },
-          videoGames: {
-  
-          },
-          boardGamesTTRPG: {
-  
-          },
-      }
-  };
-  ```
-  
-  <!-- TECH LANGUAGES & TOOLS -->
+<br><a href="https://www.instagram.com/seerlight/?hl=en"><img align="right" src="https://media.giphy.com/media/gioLPAqDRZjzYpmuCp/giphy.gif" alt="Ronald K. @seerlight"/></a>
+
+<!-- TECH LANGUAGES & TOOLS -->
   <h2 align="center">Technologies <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
   
   <p align="center">
@@ -82,33 +46,70 @@
   <img src="https://img.shields.io/badge/-Miro-F2C52D?style=for-the-badge&logo=miro"/>
   <img src="https://img.shields.io/badge/-Trello-095ED9?style=for-the-badge&logo=trello"/>
   </p>
-  
-  &nbsp;
-  
-  <!-- SNAKE CONTRIBUTION GRAPH -->
-  <!-- <h2 align="center">
-    Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
-  </h2>
-  <p align="center">
-    <img src="SVG HERE" alt="snake"></center>
-  </p> -->
-  
+
   <h2 align="center">
     Github Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
   </h2>
-  <br>
-  
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mariamcbride&show_icons=true&theme=material-palenight&line_height=27">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamcbride&theme=material-palenight&hide=html,css">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariamcbride&show_icons=true&locale=en&layout=compact&theme=material-palenight&line_height=0" />
   </p>
   <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariamcbride&show_icons=true&locale=en&layout=compact&theme=material-palenight&line_height=0" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mariamcbride&show_icons=true&theme=material-palenight&line_height=27">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamcbride&theme=material-palenight&hide=html,css">
   </p>
-  
   <p align="center">
    <img src="https://activity-graph.herokuapp.com/graph?username=mariamcbride&theme=material-palenight">
   </p>
+
+  <!-- ABOUT ME -->
+  ## <img src="https://media.giphy.com/media/1BeE7pCRWrvxJgdTib/giphy.gif" width="50"> A few things about me... <img src="https://media.giphy.com/media/Mme4s8S3cm7fi/giphy.gif" width="50">
+  
+  ```javascript
+  const maria = {
+      pronouns: "She" | "Her",
+      preferredCode: ["HTML5", "CSS3", "Javascript"],
+      askMeAbout: ["web dev", "css", "design", "anime", "just don't ask me about listTasks"],
+      technologies: {
+          frontEnd: {
+              js: "React",
+          },
+          backEnd: {
+              js: ["Java", "Node", "Express"],
+          },
+          databases: ["mongo", "MySql"],
+          devOps: "AWS",
+      },
+      currentFocus: "Find a job as a software developer",
+      // ---------- PERSONAL THINGS ABOUT ME ---------- //
+      countryOfOrigin: "Philippines",
+      currentResidence: "Washington State",
+      funFacts: ["I have an 8-year old border collie named Malcolm (after Malcolm Reynolds)", "I'm a huge nerd"],
+      interests: {
+          animeManga: {
+              shonen: ["Jujutsu Kaisen", "Demon Slayer", "Attack on Titan", "Tokyo Revengers", "Hunter x Hunter", "Naruto", "Fire Force", "My Hero Academia", "One Punch Man", "Mob Psycho 100", "Dr. STONE", "Samurai Champloo"],
+              isekai: ["Tensura", "Mushoku Tensei", "Rising of the Shield Hero", "Overlord", "GATE", "TSUKIMICHI", "Log Horizon", "Saga of Tanya the Evil"],
+              others: ["Fruits Basket", "Fena the Pirate Princess", "Yona of the Dawn", "Blood+", "NANA"],
+          },
+          shows: {
+              animated: ["Avatar the Last Airbender", "The Legend of Korra", "Castlevania", "Blood of Zeus", "The Witcher: Nightmare of the Wolf"],
+              liveAction: ["The Witcher", "The Magicians", "Umbrella Academy", "Outlander", "Vikings", "Bridgerton", "Schitt's Creek", "Big Little Lies"],
+          },
+          videoGames: {
+              singlePlayerRPGs: ["Legend of Zelda series", "Dragon Age series", "Elder Scrolls series", "Mass Effect series", "Final Fantasy series", "Octopath Traveler", "Cyberpunk 2077", "Kingdoms of Amalur", "Fallout 4"],
+              multiplayerRPGs: ["World of Warcraft", "FFXIV", "Lost Ark", "New World", "Monster Hunter"],
+              craftingSurvival: ["Valheim", "Craftopia", "Don't Starve Together"],
+              others: ["Divinity Original Sin series", "Pokemon series", "Tomb Raider series", "Resident Evil series", "Overwatch", "Borderlands", "Halo", "Overcooked 2", "Mario games", "Among Us"],
+          },
+          boardGames: {
+              tabletopRPGs: ["Dungeons & Dragons", "Pathfinder", "Gloomhaven", "Mansions of Madness", "Betrayal at House on the Hill"],
+              drafting: ["7 Wonders"],
+              socialDeduction: ["Coup", "The Resistance", "One Night Ultimate Werewolf", "Bang!"],
+              workerPlacement: ["Everdell", "Lords of Waterdeep"],
+              cityBuilding: ["Carcassonne", "Catan", "Machi Koro"],
+          },
+      }
+  };
+  ```
   
   &nbsp;
   
@@ -138,12 +139,12 @@
   </p>
   
   &nbsp;
-  
+<!--   
   <p align="center">
   <img src="https://media.giphy.com/media/1beKPeRRyT2F2/giphy.gif" width="80">
   </p>
   <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=129025865&count=3"/>
-  </p>
+  </p> -->
   
 </div>
