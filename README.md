@@ -14,7 +14,7 @@
    <img src="https://badges.pufler.dev/visits/mariamcbride/mariamcbride"/>
    <img src="https://badges.pufler.dev/repos/mariamcbride"/>
    <img src="https://badges.pufler.dev/commits/monthly/mariamcbride" />
-  </p>
+  </p><br>
   
 <a href="https://www.instagram.com/seerlight/?hl=en"><img align="right" src="https://media.giphy.com/media/gioLPAqDRZjzYpmuCp/giphy.gif" alt="Ronald K. @seerlight"/></a>
 
