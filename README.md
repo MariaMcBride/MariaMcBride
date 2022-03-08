@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/-Java-E34A86?style=for-the-badge&logo=java"/>
   <img src="https://img.shields.io/badge/-Spring-166E3A?style=for-the-badge&logo=spring"/>
   <img src="https://img.shields.io/badge/-VSCode-282A36?style=for-the-badge&logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/-Markdown-0e99da?style=for-the-badge&logo=markdown"/>
   <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git"/>
   <img src="https://img.shields.io/badge/-Amazon AWS-E98610?style=for-the-badge&logo=amazonaws"/>
