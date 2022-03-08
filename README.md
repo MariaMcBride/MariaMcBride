@@ -16,7 +16,7 @@
    <img src="https://badges.pufler.dev/commits/monthly/mariamcbride" />
   </p>
   
-<br><a href="https://www.instagram.com/seerlight/?hl=en"><img align="right" src="https://media.giphy.com/media/gioLPAqDRZjzYpmuCp/giphy.gif" alt="Ronald K. @seerlight"/></a>
+<a href="https://www.instagram.com/seerlight/?hl=en"><img align="right" src="https://media.giphy.com/media/gioLPAqDRZjzYpmuCp/giphy.gif" alt="Ronald K. @seerlight"/></a>
 
 <!-- TECH LANGUAGES & TOOLS -->
   <h2 align="center">Technologies <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
