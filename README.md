@@ -68,23 +68,43 @@
   ```javascript
   const maria = {
       pronouns: "She" | "Her",
-      preferredCode: ["HTML5", "CSS3", "Javascript"],
       askMeAbout: ["web dev", "css", "design", "anime", "just don't ask me about listTasks"],
+      preferredCode: ["HTML5", "CSS3", "Javascript"],
       technologies: {
           frontEnd: {
               js: "React",
           },
           backEnd: {
-              js: ["Java", "Node", "Express"],
+              js: ["Java", "NodeJS", "Express"],
           },
-          databases: ["mongo", "MySql"],
+          databases: ["MongoDB", "MySQL"],
           devOps: "AWS",
       },
-      currentFocus: "Find a job as a software developer",
+      currentFocus: ["Find a job as a software developer", "keep working on projects"],
+      ongoingProjects: {
+          NerdSpace: {
+              members: "self",
+              frontEnd: "(currently) Jinja HTML but will be transitioning to React",
+              backEnd: "(currently) Python-Flask but will be transitioning to Java Spring Boot",
+              database: "MySQL",
+          },
+          OnlyPans: {
+              members: ["self", "Eric Toribio", "Nate Trichanh"],
+              frontEnd: "React",
+              backEnd: "(currently) Express/NodeJS but will be transitioning to Python",
+              database: "(currently) MongoDB but will be transitioning to MySQL",
+          },
+          HomewardBound: {
+              members: ["self", "Eric Toribio", "Matthew Sherman"],
+              frontEnd: "React",
+              backEnd: "Java Spring Boot",
+              database: "MySQL",
+          },
+      },
       // ---------- PERSONAL THINGS ABOUT ME ---------- //
       countryOfOrigin: "Philippines",
       currentResidence: "Washington State",
-      funFacts: ["I have an 8-year old border collie named Malcolm (after Malcolm Reynolds)", "I'm a huge nerd"],
+      funFacts: ["I have an 8-year old border collie named Malcolm (after Malcolm Reynolds from Firefly)", "I'm a huge nerd"],
       interests: {
           animeManga: {
               shonen: ["Jujutsu Kaisen", "Demon Slayer", "Attack on Titan", "Tokyo Revengers", "Hunter x Hunter", "Naruto", "Fire Force", "My Hero Academia", "One Punch Man", "Mob Psycho 100", "Dr. STONE", "Samurai Champloo"],
@@ -112,8 +132,6 @@
   };
   ```
   
-  &nbsp;
-  
   <!-- CONTACT -->
   <h2 align="center">
   <img src="https://media.giphy.com/media/KDyjO62u9A4FwCZuBF/giphy.gif" width="50">
@@ -139,7 +157,6 @@
   <img src="https://media.giphy.com/media/MMnDgPw0yB6ms/giphy.gif" width="480" height="480" frameBorder="0" style="border-radius: 5px"/><p><a href="https://giphy.com/gifs/animations-electronics-vintage-stuff-MMnDgPw0yB6ms"></a>
   </p>
   
-  &nbsp;
 <!--   
   <p align="center">
   <img src="https://media.giphy.com/media/1beKPeRRyT2F2/giphy.gif" width="80">
