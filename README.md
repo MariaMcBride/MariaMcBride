@@ -8,13 +8,7 @@
   <p align="center">
   <img src="https://media.giphy.com/media/10y00L5OqWgHD2/giphy.gif">
   </p>
-  
-  <!-- VISITS BADGES -->
-  <p align="center">
-   <img src="https://badges.pufler.dev/visits/mariamcbride/mariamcbride"/>
-   <img src="https://badges.pufler.dev/repos/mariamcbride"/>
-   <img src="https://badges.pufler.dev/commits/monthly/mariamcbride" />
-  </p><br>
+
   
 <a href="https://www.instagram.com/seerlight/?hl=en"><img align="right" src="https://media.giphy.com/media/gioLPAqDRZjzYpmuCp/giphy.gif" alt="Ronald K. @seerlight"/></a>
 
@@ -57,9 +51,6 @@
   <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mariamcbride&show_icons=true&theme=material-palenight&line_height=27">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamcbride&theme=material-palenight&hide=html,css">
-  </p>
-  <p align="center">
-   <img src="https://activity-graph.herokuapp.com/graph?username=mariamcbride&theme=material-palenight" width="800">
   </p>
 
   <!-- ABOUT ME -->
@@ -104,29 +95,30 @@
       // ---------- PERSONAL THINGS ABOUT ME ---------- //
       countryOfOrigin: "Philippines",
       currentResidence: "Washington State",
-      funFacts: ["I have an 8-year old border collie named Malcolm (after Malcolm Reynolds from Firefly)", "I'm a huge nerd"],
+      funFacts: ["I have an 9-year old border collie named Malcolm (after Malcolm Reynolds from Firefly)", "I'm a huge nerd"],
       interests: {
           animeManga: {
-              shonen: ["Jujutsu Kaisen", "Demon Slayer", "Attack on Titan", "Tokyo Revengers", "Hunter x Hunter", "Naruto", "Fire Force", "My Hero Academia", "One Punch Man", "Mob Psycho 100", "Dr. STONE", "Samurai Champloo"],
-              isekai: ["Tensura", "Mushoku Tensei", "Rising of the Shield Hero", "Overlord", "GATE", "TSUKIMICHI", "Log Horizon", "Saga of Tanya the Evil"],
-              others: ["Fruits Basket", "Fena the Pirate Princess", "Yona of the Dawn", "Blood+", "NANA"],
+              shonen: ["Jujutsu Kaisen", "Chainsaw Man", "Demon Slayer", "Vinland Saga", "Attack on Titan", "Tokyo Revengers", "Hunter x Hunter", "Naruto", "Fire Force", "My Hero Academia", "One Punch Man", "Mob Psycho 100", "Dr. STONE", "Samurai Champloo"],
+              isekai: ["Tensura", "Mushoku Tensei", "Rising of the Shield Hero", "Overlord", "GATE", "TSUKIMICHI", "Log Horizon", "Saga of Tanya the Evil", "Sword Art Online"],
+              others: ["Spy x Family", "Fruits Basket", "Fena the Pirate Princess", "Yona of the Dawn", "Blood+", "NANA", "Classroom of the Elite", "AJIN"],
           },
           shows: {
-              animated: ["Avatar the Last Airbender", "The Legend of Korra", "Castlevania", "Blood of Zeus", "The Witcher: Nightmare of the Wolf"],
-              liveAction: ["The Witcher", "The Magicians", "Umbrella Academy", "Outlander", "Vikings", "Bridgerton", "Schitt's Creek", "Big Little Lies"],
+              animated: ["ARCANE", "Avatar the Last Airbender", "The Legend of Korra", "Castlevania", "Cyberpunk: Edgerunners", "Blood of Zeus", "The Witcher: Nightmare of the Wolf"],
+              liveAction: ["The Witcher", "The Magicians", "Umbrella Academy", "Outlander", "Vikings", "Bridgerton", "Schitt's Creek", "Big Little Lies", "You", "Charmed", "Grey's Anatomy", "Lucifer", "Sandman", "The Vampire Diaries", "The Originals", "Legacies", "New Girl", "The Chilling Adventures of Sabrina", "Manifest", "Imposters"],
           },
           videoGames: {
               singlePlayerRPGs: ["Legend of Zelda series", "Dragon Age series", "Elder Scrolls series", "Mass Effect series", "Final Fantasy series", "Octopath Traveler", "Cyberpunk 2077", "Kingdoms of Amalur", "Fallout 4"],
               multiplayerRPGs: ["World of Warcraft", "FFXIV", "Lost Ark", "New World", "Monster Hunter"],
-              craftingSurvival: ["Valheim", "Craftopia", "Don't Starve Together"],
-              others: ["Divinity Original Sin series", "Pokemon series", "Tomb Raider series", "Resident Evil series", "Overwatch", "Borderlands", "Halo", "Overcooked 2", "Mario games", "Among Us"],
+              craftingSurvival: ["Valheim", "Craftopia", "Don't Starve Together", "Sons of the Forest"],
+              others: ["Stardew Valley", "Divinity Original Sin series", "Pokemon series", "Tomb Raider series", "Resident Evil series", "Overwatch", "Borderlands", "Halo", "Overcooked 2", "Mario games", "Among Us", "Phasmophobia"],
           },
           boardGames: {
               tabletopRPGs: ["Dungeons & Dragons", "Pathfinder", "Gloomhaven", "Mansions of Madness", "Betrayal at House on the Hill"],
               drafting: ["7 Wonders"],
               socialDeduction: ["Coup", "The Resistance", "One Night Ultimate Werewolf", "Bang!"],
-              workerPlacement: ["Everdell", "Lords of Waterdeep"],
+              workerPlacement: ["Everdell", "Lords of Waterdeep", "Wingspan"],
               cityBuilding: ["Carcassonne", "Catan", "Machi Koro"],
+              others: ["Bureau of Investigation"],
           },
       }
   };
